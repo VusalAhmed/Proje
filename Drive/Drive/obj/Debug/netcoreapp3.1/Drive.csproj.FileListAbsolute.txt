@@ -1,0 +1,14 @@
+C:\Users\ibrah\source\repos\Drive\Drive\bin\Debug\netcoreapp3.1\Drive.exe
+C:\Users\ibrah\source\repos\Drive\Drive\bin\Debug\netcoreapp3.1\Drive.deps.json
+C:\Users\ibrah\source\repos\Drive\Drive\bin\Debug\netcoreapp3.1\Drive.runtimeconfig.json
+C:\Users\ibrah\source\repos\Drive\Drive\bin\Debug\netcoreapp3.1\Drive.runtimeconfig.dev.json
+C:\Users\ibrah\source\repos\Drive\Drive\bin\Debug\netcoreapp3.1\Drive.dll
+C:\Users\ibrah\source\repos\Drive\Drive\bin\Debug\netcoreapp3.1\Drive.pdb
+C:\Users\ibrah\source\repos\Drive\Drive\obj\Debug\netcoreapp3.1\Drive.csproj.AssemblyReference.cache
+C:\Users\ibrah\source\repos\Drive\Drive\obj\Debug\netcoreapp3.1\Drive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\source\repos\Drive\Drive\obj\Debug\netcoreapp3.1\Drive.AssemblyInfoInputs.cache
+C:\Users\ibrah\source\repos\Drive\Drive\obj\Debug\netcoreapp3.1\Drive.AssemblyInfo.cs
+C:\Users\ibrah\source\repos\Drive\Drive\obj\Debug\netcoreapp3.1\Drive.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\Drive\Drive\obj\Debug\netcoreapp3.1\Drive.dll
+C:\Users\ibrah\source\repos\Drive\Drive\obj\Debug\netcoreapp3.1\Drive.pdb
+C:\Users\ibrah\source\repos\Drive\Drive\obj\Debug\netcoreapp3.1\Drive.genruntimeconfig.cache
